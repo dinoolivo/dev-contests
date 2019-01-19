@@ -1,0 +1,1 @@
+# Contests solved for Project Euler and Hacker Rank versions
